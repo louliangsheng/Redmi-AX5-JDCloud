@@ -62,4 +62,4 @@ fi
 
 ## 参考链接
 * [解锁京东云 Redmi AX5 ssh](https://m1ku.in/archives/783)
-* [关于小米路由器升级系统保留SSH的简单方法](https://icode.best/i/10101345505777)
+* [关于小米路由器升级系统保留SSH的简单方法](https://www.right.com.cn/forum/thread-8140395-1-1.html)
